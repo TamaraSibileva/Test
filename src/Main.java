@@ -11,7 +11,7 @@ public class Main {
 
         String name = "Vanya";
 
-        System.out.println(name + " ехал со скоростью " + x);
+        System.out.println(name + " ехал со скоростью " + speed);
 
 
     }
